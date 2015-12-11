@@ -1,4 +1,4 @@
-![CivetWeb](https://raw.github.com/civetweb/civetweb/master/resources/civetweb_64x64.png "CivetWeb") CivetWeb
+![CivetWeb](https://raw.github.com/civetweb/civetweb/master/resources/civetweb_64x64.png "CivetWeb") CivetWeb for OSv
 =======
 
 **Continuous integration (Travis, Appveyor), coverage check (coveralls) and source code analysis (coverity) are currently in a setup phase**
@@ -19,20 +19,11 @@ server with optional CGI, SSL and Lua support.
 CivetWeb has a MIT license so you can innovate without restrictions.
 
 
-Where to find the official version?
------------------------------------
+OSv Optimized
+--------------
 
-End users can download CivetWeb at SourceForge
-https://sourceforge.net/projects/civetweb/
-
-Developers can contribute to CivetWeb via GitHub
-https://github.com/civetweb/civetweb
-
-Trouble tickets should be filed on GitHub
-https://github.com/civetweb/civetweb/issues
-
-Discussion/support group and announcements are at Google Groups
-https://groups.google.com/d/forum/civetweb
+This version of CivetWeb has been modified to be compatible with the 
+[OSv](http://osv.io) cloud operating system and is maintained by [secureosv.com](http://secureosv.com)
 
 
 Quick start documentation
